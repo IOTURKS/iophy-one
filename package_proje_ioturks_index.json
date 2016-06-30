@@ -1,0 +1,46 @@
+{
+	"packages": [
+		{
+			"name": "IOTURKS",
+			"maintainer": "IOTURKS",
+			"websiteURL": "http://www.ioturks.io",
+			"email": "info@ioturks.io",
+			"help": {
+				"online": "http://www.ioturks.io"
+			},
+			"platforms": [
+				{
+					"name": "IOTURKS Mikro Denetleyici Geliştirme Kartları",
+					"architecture": "avr",
+					"version": "1.0.0",
+					"category": "IOTURKS",
+					"url": "http://download.ioturks.io/iophy-one/code/IoTurks_arduino.zip",
+					"archiveFileName": "IoTurks_arduino.zip",
+					"checksum": "SHA-256:bdcdd5e8fb2e75b728b2e1ef3577086ce189b0dd31e091df81c5d06bfaee1fba",
+					"size": "148213",
+					"help": {
+						"online": "http://iophy-one.ioturks.io"
+					},
+					"boards": [
+						{
+							"name": "IOPHY-ONE v1.0"
+						}
+					],
+					"toolsDependencies": [
+						{
+							"packager": "arduino",
+							"name": "avr-gcc",
+							"version": "4.8.1-arduino5"
+						},
+						{
+							"packager": "arduino",
+							"name": "avrdude",
+							"version": "6.0.1-arduino5"
+						}
+					]
+				}
+			],
+			"tools": []
+		}
+	]
+}
