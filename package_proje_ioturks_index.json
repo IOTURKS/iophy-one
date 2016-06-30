@@ -14,10 +14,10 @@
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "IOTURKS",
-					"url": "http://download.ioturks.io/iophy-one/code/IoTurks_arduino.zip",
+					"url": "https://raw.githubusercontent.com/IOTURKS/iophy-one/master/IoTurks_arduino.zip",
 					"archiveFileName": "IoTurks_arduino.zip",
-					"checksum": "SHA-256:bdcdd5e8fb2e75b728b2e1ef3577086ce189b0dd31e091df81c5d06bfaee1fba",
-					"size": "148213",
+					"checksum": "SHA-256:B09EB6F727BC2EE1ADA9F631CD5813AC0C2A324DB76B18F6AA1FE515D15F512F",
+					"size": "323584",
 					"help": {
 						"online": "http://iophy-one.ioturks.io"
 					},
