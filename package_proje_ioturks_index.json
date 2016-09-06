@@ -7,7 +7,7 @@
 			"email": "info@ioturks.io",
 			"help": {
 				"online": "http://www.ioturks.io"
-			},
+			}, 
 			"platforms": [
 				{
 					"name": "IOTURKS Mikro Denetleyici Geliştirme Kartları",
@@ -17,13 +17,13 @@
 					"url": "https://raw.githubusercontent.com/IOTURKS/iophy-one/master/IoTurks_arduino.zip",
 					"archiveFileName": "IoTurks_arduino.zip",
 					"checksum": "SHA-256:063077cb0cea9d7660d2349153543d2f892f75c7cbcd6c6eea286d7e0a308722",
-					"size": "211772",
+					"size": "212992",
 					"help": {
 						"online": "http://iophy-one.ioturks.io"
 					},
 					"boards": [
 						{
-							"name": "Iophy-one v1.0"
+							"name": "Iophy-one v1.0 20MHz"
 						}
 					],
 					"toolsDependencies": [
